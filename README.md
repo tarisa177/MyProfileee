@@ -32,4 +32,4 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 
 ## Screenshot Aplikasi
 
-![Screenshot MyProfilee](screenshots/hasil.png)
+![Screenshot MyProfilee](./screenshots/hasil.png)
